@@ -1,7 +1,7 @@
 # 🛡️ NetGuard Agents: Multi-Modal Network Defense System
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![AI](https://img.shields.io/badge/AI-Google%20Gemini%201.5-orange)
+![AI](https://img.shields.io/badge/AI-Google%20Gemini%202.5-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 **NetGuard Agents** is an autonomous Multi-Agent System (MAS) designed to automate Tier-1 Network Security triage. It orchestrates three specialized AI agents to correlate **Packet Capture (PCAP)** data with **Network Topology Diagrams**.
