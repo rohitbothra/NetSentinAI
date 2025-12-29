@@ -16,7 +16,7 @@
 ## 🚀 Quick Start
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/NetGuard-Agents.git](https://github.com/YOUR_USERNAME/NetGuard-Agents.git)
+    git clone [https://github.com/rohitbothra/NetSentinAI.git](https://github.com/rohitbothra/NetSentinAI.git)
     cd NetGuard-Agents
     ```
 2.  **Install Dependencies:**
