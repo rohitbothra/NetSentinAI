@@ -1,0 +1,6 @@
+google-genai
+scapy
+pandas
+python-dotenv
+rich
+pillow
